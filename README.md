@@ -6,7 +6,7 @@ Welcome to The Wild Oasis! This is a hotel management web app, where hotel emplo
 
 # Live Site
 
-Check out the live admin app here: [The Wild Oasis - Admin](the-wild-oasis-omega-black.vercel.app)
+Check out the live admin app here: [The Wild Oasis - Admin](https://the-wild-oasis-omega-black.vercel.app)
 
 # Customer Version
 
