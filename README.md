@@ -45,3 +45,7 @@ This project was a deep dive into several advanced React concepts, including:
 - Responsive and Adaptive Design: Building a responsive user interface using Styled Components, making sure it works well on different devices and screen sizes.
 - Dark Mode: Adding dark mode functionality for a personalized user experience.
 - Data Visualization: Using Recharts to create meaningful visual representations of hotel statistics.
+
+# Acknowledgments
+
+This app was developed as part of the Udemy course by Jonas Schmedtmann. Special thanks to Jonas for his excellent teaching and guidance throughout the course.
