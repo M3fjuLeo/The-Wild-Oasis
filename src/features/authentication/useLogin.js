@@ -4,7 +4,6 @@ import { useNavigate } from "react-router-dom";
 import { login as loginApi } from "../../services/apiAuth";
 
 export function useLogin() {
-  // queryClient - zapisanie w pamieci danych aby nie odswierzało co chwile
   const queryClient = useQueryClient();
   const navigate = useNavigate();
 
